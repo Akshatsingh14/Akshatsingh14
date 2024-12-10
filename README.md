@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshat Singh</h1>
-<h3 align="center">I am a Computer Science graduate with a specialization in Data Science, passionate about building innovative, data-driven solutions and scalable web applications. My expertise spans Python, Django, SQL, and data visualization, along with frontend and backend integration.</h3>
+<h3 align="center">I am a Computer Science graduate with a specialization in Data Science, passionate about building innovative, data-driven solutions and scalable web applications. My expertise spans Python, Django, SQL, along with frontend and backend integration. Currently enthusiast about backend development and improving my tech stack on it. </h3>
 
 - 🌱 I’m currently learning **Python, Django, MySql, JS, Nodejs**
 
