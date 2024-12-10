@@ -1,7 +1,5 @@
 ## Hi there 👋 I'm Akshat !
 
-Here’s an updated GitHub profile description based on your comprehensive resume:  
-
 ---
   
 🚀 **B.Tech Graduate | Data Scientist | Python Developer**  
