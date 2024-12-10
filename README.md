@@ -1,33 +1,14 @@
-## Hi there 👋 I'm Akshat !
+<h1 align="center">Hi 👋, I'm Akshat Singh</h1>
+<h3 align="center">I am a Computer Science graduate with a specialization in Data Science, passionate about building innovative, data-driven solutions and scalable web applications. My expertise spans Python, Django, SQL, and data visualization, along with frontend and backend integration.</h3>
 
----
-  
-🚀 **B.Tech Graduate | Data Scientist | Python Developer**  
+- 🌱 I’m currently learning **Python, Django, MySql, JS, Nodejs**
 
-Welcome to my GitHub! I am a Computer Science graduate with a specialization in Data Science, passionate about building innovative, data-driven solutions and scalable web applications. My expertise spans Python, Django, SQL, and data visualization, along with frontend and backend integration.  
+- 📫 How to reach me **akshatsingh0714@gmail.com**
 
-🔧 **Tech Stack & Skills:**  
-- **Programming:** Python, SQL, JavaScript  
-- **Web Development:** Django, HTML, CSS  
-- **Data Science Tools:** Pandas, NumPy, Matplotlib, NLTK  
-- **Visualization & Analytics:** Power BI, Jupyter Notebook  
-- **Database Management:** MySQL, PostgreSQL  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/akshat-singh-649010232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akshat-singh-649010232/" height="30" width="40" /></a>
+</p>
 
-📂 **Notable Projects:**  
-- **Rake Forecasting System**: Developed an ML-powered backend system with 93% accuracy using Python and Random Forest Classifier.  
-- **Gender and Age Detection**: Built a CNN-based classification model using OpenCV and Adience Dataset.  
-- **Data Analytics & Automation**: Streamlined operations with interactive dashboards and automation tools like Power BI.  
-
-🌟 **Achievements:**  
-- Excellence Awards from Bhilai Steel Plant and NoQs Digital.  
-- HackerRank Certifications in Python, SQL, and CSS.  
-
-💡 **What I’m Working On:**  
-- Enhancing my full-stack development skills with Django and modern web technologies.  
-- Exploring advanced data science and machine learning techniques.  
-
-📫 **Let’s Connect:**  
-- LinkedIn: [Akshat Singh Kushwaha](https://www.linkedin.com/in/akshat-singh-649010232/)  
-- Email: akshatsingh0714@gmail.com  
-
-Let’s collaborate and create something impactful together!  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
