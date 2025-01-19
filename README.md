@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **Python, Django, MySql, JS, Nodejs**
 
+- 🌱 I’m currently learning working on **Domino's CLone**
+
 - 📫 How to reach me **akshatsingh0714@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
